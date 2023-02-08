@@ -1,0 +1,6 @@
+steps\StepDefinitions.class
+com\extentreports\tests\ExtentReportsFive.class
+utils\TestBase.class
+pageObject\AuthentificatonPageObject.class
+steps\AuthentificationStepDefinition.class
+runner\TestRunner.class
